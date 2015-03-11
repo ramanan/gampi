@@ -108,7 +108,7 @@ float Domain::get_fitness(const std::vector<nodeid>& nodelist, const std::vector
     for(int j=0;j<6;j++){
       nodeid n2=reorlist[topology[i*6+j]];
       float cost=distance_between_nodes(n1,n2); 
-      assert(cost>0); 
+      assert(cost>=0); 
       //fitness+=cost*cost; // L2 norm
       fitness+=cost; // L1 norm
     }
