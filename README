@@ -9,9 +9,10 @@ MPI communication.
 
 PLEASE ACKNOWLEDGE ANY USE OF THIS SOFTWARE AND CITE THE FOLLOWING REFERENCE:
 
-Ramanan Sankaran, Jordan Angel and Mike Brown (2014) 
+Ramanan Sankaran, Jordan Angel and Mike Brown (2015) 
 "Genetic Algorithm based Task Reordering to Improve the 
 Performance of Batch Scheduled Massively Parallel Scientific Applications", 
-accepted in Concurrency and Computation, Practice and Experience. 
+Concurrency and Computation, Practice and Experience. 
+http://onlinelibrary.wiley.com/doi/10.1002/cpe.3457/
 
 
